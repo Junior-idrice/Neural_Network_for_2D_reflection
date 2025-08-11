@@ -1,0 +1,1 @@
+<h1>This is a good begining with learning neural network from scratch
